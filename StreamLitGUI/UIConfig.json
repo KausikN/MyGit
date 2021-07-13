@@ -1,0 +1,10 @@
+{
+    "PROJECT_NAME": "MyGit",
+    "PROJECT_LINK": "https://github.com/KausikN/MyGit",
+
+    "PROJECT_DESC": "A python tool for viewing details about your github repos and profile",
+
+    "PROJECT_README": "README.md",
+
+    "PROJECT_MODES": ["View My Repos", "Settings"]
+}
