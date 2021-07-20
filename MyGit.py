@@ -67,7 +67,7 @@ def GetRepoDetails(repo, excludes={"contents": False, "license": False}):
 # # Get User
 # USER = GetCurrentUser()
 # # Get Repos Details
-# REPOS = GetRepos(USER)
+# REPOS = GetAllRepos(USER)
 # print("Available Repos:", len(REPOS))
 # # Get Repo Details
 # for repo in REPOS[:1]:                   
