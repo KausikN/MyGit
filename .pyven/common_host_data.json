@@ -2,6 +2,7 @@
     "files_to_download": [
         "StreamLitGUI/",
         "app.py",
-        "MyGit.py"
+        "MyGit.py",
+        ".accesstoken/"
     ]
 }
