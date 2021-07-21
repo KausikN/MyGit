@@ -1,0 +1,99 @@
+{
+    "name": "MyGit",
+    "repoLink": "https://github.com/KausikN/MyGit",
+    "localPath": "E:/Github Codes and Projects/Projects/MyGit",
+    "modules": {
+        "app.py": {
+            "name": "app",
+            "type": "local",
+            "link": "https://github.com/KausikN/MyGit/blob/master/app.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": [
+                "datetime.py",
+                "os.py",
+                "pickle.py",
+                "functools.py",
+                "streamlit.py",
+                "json.py",
+                "MyGit.py"
+            ]
+        },
+        "MyGit.py": {
+            "name": "MyGit",
+            "type": "local",
+            "link": "https://github.com/KausikN/MyGit/blob/master/MyGit.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": [
+                "base64.py",
+                "json.py",
+                "github.py"
+            ]
+        },
+        "json.py": {
+            "name": "json",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "pickle.py": {
+            "name": "pickle",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "functools.py": {
+            "name": "functools",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "datetime.py": {
+            "name": "datetime",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "github.py": {
+            "name": "github",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "streamlit.py": {
+            "name": "streamlit",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "os.py": {
+            "name": "os",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        },
+        "base64.py": {
+            "name": "base64",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/MyGit",
+            "subDir": "",
+            "dependencies": []
+        }
+    }
+}

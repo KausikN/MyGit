@@ -150,7 +150,7 @@ def view_my_repos():
     st.markdown("## " + USERINPUT_RepoChoice['name'])
 
     col1, col2, col3, col4 = st.beta_columns([2, 4, 1, 1])
-    Repo_public = "☑️" if not USERINPUT_RepoChoice['private'] else "❎"
+    Repo_public = ":ballot_box_with_check:" if not USERINPUT_RepoChoice['private'] else ":x:"
     col1.markdown("Public:")
     col2.markdown(Repo_public)
     Repo_nforks = USERINPUT_RepoChoice['n_forks']

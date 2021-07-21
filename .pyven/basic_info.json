@@ -1,0 +1,11 @@
+{
+    "repo_name": "MyGit",
+    "requirements": [
+        "streamlit",
+        "numpy",
+        "matplotlib",
+        "opencv-python-headless",
+        "tqdm",
+        "PyGithub"
+    ]
+}
