@@ -8,7 +8,7 @@ import json
 from github import Github
 
 # Main Vars
-GITHUB_CLIENT = Github(json.load(open('.accesstoken/secret_config.json'))["secret_token"])
+GITHUB_CLIENT = Github() # Github(json.load(open('.accesstoken/secret_config.json'))["secret_token"])
 
 # Main Functions
 def GetUser(username):

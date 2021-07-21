@@ -61,11 +61,21 @@ def Str_to_DateTime(data):
 def DateTime_to_Str(dateTime, format="%d-%b-%Y (%H:%M:%S)"):
     return dateTime.strftime(format) # Another format => '%Y-%m-%dT%H:%M:%S'
 
-def LoadClientData():
+def LoadClientData(userName):
     global GITHUB_CLIENT
     global USER_ME
     GITHUB_CLIENT = MyGit.GITHUB_CLIENT
-    USER_ME = MyGit.GetCurrentUser()
+    if userName is None:
+        USER_ME = MyGit.GetCurrentUser()
+    else:
+        try:
+            USER_ME = MyGit.GetUser(userName)
+        except:
+            return False
+    if USER_ME is None or USER_ME.name is None:
+        USER_ME = None
+        return False
+    return True
 
 def GetNames(data_list):
     names = []
@@ -84,7 +94,14 @@ def GetBadgeCode(a, b, color):
     return "[![Generic badge](https://img.shields.io/badge/{}-{}-{}.svg)]()".format(a, b, color)
 
 # Main Functions
+def ReloadRepoDetails(USERINPUT_GetContents, USERINPUT_GetLicense):
+    global CACHE
+    global USER_ME
 
+    REPOS_DETAILS = UI_LoadReposData(USER_ME, {"contents": not USERINPUT_GetContents, "license": not USERINPUT_GetLicense})
+    # Update Cache
+    CACHE["REPOS_DETAILS"][USER_ME.name] = REPOS_DETAILS
+    SaveCache()
 
 # UI Functions
 def UI_SelectRepoMode(REPOS_DETAILS, user):
@@ -125,11 +142,18 @@ def view_my_repos():
     # Title
     st.header("View My Repos")
 
-    LoadClientData()
+    USERINPUT_UserName = st.sidebar.text_input("Enter User Name", "KausikN")
+    if not LoadClientData(USERINPUT_UserName): 
+        st.sidebar.markdown("No such user found :confused:")
+        return
     LoadCache()
+    if st.sidebar.button("Reload Repos"):
+        ReloadRepoDetails(False, False)
     REPOS_DETAILS = []
     if USER_ME.name in CACHE["REPOS_DETAILS"].keys():
         REPOS_DETAILS = CACHE["REPOS_DETAILS"][USER_ME.name]
+    else:
+        ReloadRepoDetails(False, False)
 
     # Load Inputs
     st.markdown("User ***" + USER_ME.name + "***" + " has " + str(len(REPOS_DETAILS)) + " repos.")
@@ -197,21 +221,20 @@ def settings():
     # Title
     st.header("Settings")
 
-    LoadClientData()
+    USERINPUT_UserName = st.sidebar.text_input("Enter User Name", "KausikN")
+    if not LoadClientData(USERINPUT_UserName): 
+        st.sidebar.markdown("No such user found :confused:")
+        return
     LoadCache()
 
     # Load Inputs
     st.markdown("## Repository Settings")
-    USERINPUT_GetContents = st.checkbox("Load Repo Contents", False)
-    USERINPUT_GetLicense = st.checkbox("Load Repo License", False)
-    if st.button("Reload Repos"):
-        REPOS_DETAILS = UI_LoadReposData(USER_ME, {"contents": not USERINPUT_GetContents, "license": not USERINPUT_GetLicense})
-
-        # Update Cache
-        CACHE["REPOS_DETAILS"][USER_ME.name] = REPOS_DETAILS
-        SaveCache()
+    # USERINPUT_GetContents = st.checkbox("Load Repo Contents", False)
+    # USERINPUT_GetLicense = st.checkbox("Load Repo License", False)
 
     # Process Inputs
+    if st.button("Reload Repos"):
+        ReloadRepoDetails(False, False)
 
     # Display Outputs
 
