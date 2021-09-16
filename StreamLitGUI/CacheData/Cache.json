@@ -2,6 +2,61 @@
     "REPOS_DETAILS": {
         "Kausik N": [
             {
+                "name": "anuragnatoo/MemoryBasedMutliplication",
+                "description": "Algorithms and Implementations for memory based computations",
+                "language": "Python",
+                "time_creation": "2020-03-31-04-53-22",
+                "time_push_last": "2020-05-26-08-23-36",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
+                "name": "aSociette/aSociette",
+                "description": null,
+                "language": "Dart",
+                "time_creation": "2021-08-08-07-35-00",
+                "time_push_last": "2021-08-25-04-53-26",
+                "home_page": null,
+                "n_forks": 1,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "aSociette/Juliana",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2020-04-13-05-48-40",
+                "time_push_last": "2021-07-28-07-09-45",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "aSociette/spirit-api",
+                "description": "OpenAPI aimed at helping developers collaborate and make chatbots more accessible",
+                "language": "Python",
+                "time_creation": "2021-07-24-10-57-17",
+                "time_push_last": "2021-09-05-17-08-15",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
+                "name": "github/copilot-preview",
+                "description": "Repository for GitHub Copilot",
+                "language": "Python",
+                "time_creation": "2021-06-02-06-27-15",
+                "time_push_last": "2021-07-21-14-56-19",
+                "home_page": "https://copilot.github.com",
+                "n_forks": 0,
+                "n_stars": 7948,
+                "private": true
+            },
+            {
                 "name": "KausikN/Accilert_Codes",
                 "description": "Codes for Accilert - Simulation Software for Accident Detection and Coditions Simulation",
                 "language": "C#",
@@ -35,11 +90,33 @@
                 "private": false
             },
             {
+                "name": "KausikN/AlgoVis",
+                "description": "A python visualiser for various Algorithms",
+                "language": "Python",
+                "time_creation": "2021-09-16-04-14-25",
+                "time_push_last": "2021-09-16-06-45-41",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
                 "name": "KausikN/Algo_CPP_Files",
                 "description": "Algorithm Course C++ Files",
                 "language": "C++",
                 "time_creation": "2019-09-05-11-29-49",
                 "time_push_last": "2019-09-05-11-29-57",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "KausikN/AnimASCII",
+                "description": "A tool to generate and view ASCII Animations and pictures using images, text, sounds and more!",
+                "language": "Python",
+                "time_creation": "2021-07-03-11-08-45",
+                "time_push_last": "2021-07-24-07-42-13",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -66,6 +143,17 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
+            },
+            {
+                "name": "KausikN/Assemble_VideoConferencingApp",
+                "description": "Made in India Video Conferencing App",
+                "language": null,
+                "time_creation": "2020-04-23-07-44-08",
+                "time_push_last": "2020-04-23-07-44-15",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/AutoUI",
@@ -108,7 +196,7 @@
                 "time_push_last": "2021-07-21-09-51-38",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
                 "private": false
             },
             {
@@ -121,6 +209,28 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
+            },
+            {
+                "name": "KausikN/ChessOverloaded",
+                "description": "ChessOverloaded is a unity chess based game",
+                "language": "C#",
+                "time_creation": "2019-09-05-13-38-02",
+                "time_push_last": "2021-04-21-12-00-43",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "KausikN/CommonHostApp",
+                "description": "Streamlit app for dynamic hosting of streamlit based github repos (PyVen initialised) on heroku",
+                "language": "Python",
+                "time_creation": "2021-07-19-15-27-57",
+                "time_push_last": "2021-08-16-16-20-43",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/CompArch_Files",
@@ -152,7 +262,7 @@
                 "time_push_last": "2021-05-22-05-58-01",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 1,
+                "n_stars": 2,
                 "private": false
             },
             {
@@ -182,11 +292,33 @@
                 "description": "DaVIS is a Data Visualiser Tool for visualising data in various unconventional methods to provide more insights",
                 "language": "Python",
                 "time_creation": "2020-07-19-14-46-27",
-                "time_push_last": "2021-05-22-05-58-28",
+                "time_push_last": "2021-09-16-06-44-57",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 2,
                 "private": false
+            },
+            {
+                "name": "KausikN/DescripGen",
+                "description": "A Description/Summary Generator for any directory for use in places like generating github repo descriptions",
+                "language": "Python",
+                "time_creation": "2020-11-15-14-00-41",
+                "time_push_last": "2020-12-03-13-51-39",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
+                "name": "KausikN/DevoteeApp",
+                "description": "A Python App to Upload Devotee Data from Google Form CSV Data to Google Firebase Database",
+                "language": "Python",
+                "time_creation": "2020-02-28-10-05-40",
+                "time_push_last": "2020-04-02-12-44-58",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/DSA_C_Files",
@@ -198,6 +330,39 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
+            },
+            {
+                "name": "KausikN/DuoSecure",
+                "description": "2 Wheeler Theft Detection",
+                "language": "Python",
+                "time_creation": "2020-01-31-10-16-56",
+                "time_push_last": "2020-12-03-13-52-41",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "KausikN/EasyInit",
+                "description": "A collection of \"simply run\" initialisers, executables and codes for various uses",
+                "language": "Python",
+                "time_creation": "2021-09-10-13-31-13",
+                "time_push_last": "2021-09-16-04-15-30",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
+                "name": "KausikN/eBramhaAR_Scripts",
+                "description": "eBramha AR Unity Scripts",
+                "language": "C#",
+                "time_creation": "2019-12-12-14-24-38",
+                "time_push_last": "2020-04-02-12-45-14",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/edex-ui",
@@ -251,7 +416,29 @@
                 "time_push_last": "2021-01-04-13-11-01",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "KausikN/GameDevPile",
+                "description": "Pile of Game Dev Stuff done by me",
+                "language": null,
+                "time_creation": "2020-04-26-05-46-39",
+                "time_push_last": "2020-04-26-05-46-40",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "KausikN/Gattaca",
+                "description": "A python visualiser for genetic algorithms and related concepts",
+                "language": "Python",
+                "time_creation": "2021-07-29-05-11-53",
+                "time_push_last": "2021-08-05-06-45-13",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
                 "private": false
             },
             {
@@ -321,6 +508,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/HerokuTestApp",
+                "description": "Test Apps for hosting in Heroku",
+                "language": "Python",
+                "time_creation": "2020-04-30-12-50-48",
+                "time_push_last": "2020-12-03-13-53-12",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
                 "name": "KausikN/HospiDB",
                 "description": "A Java Application for Hospital Management using MySQL Database Connectivity",
                 "language": "Java",
@@ -332,6 +530,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/IITM_Files",
+                "description": "All codes, projects, notes and assignments in IIT Madras Courses and Electives that i took during my MTech",
+                "language": "C",
+                "time_creation": "2021-08-21-12-45-46",
+                "time_push_last": "2021-09-09-04-53-33",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
                 "name": "KausikN/ImageColoriser",
                 "description": "Greyscale images to Color images using python and DL",
                 "language": "Python",
@@ -339,7 +548,7 @@
                 "time_push_last": "2021-07-21-09-52-39",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
                 "private": false
             },
             {
@@ -365,11 +574,22 @@
                 "private": false
             },
             {
+                "name": "KausikN/InfinityJoker",
+                "description": "Python tool to do fun things with jokes",
+                "language": "Python",
+                "time_creation": "2020-09-17-10-15-50",
+                "time_push_last": "2020-09-17-10-15-58",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
                 "name": "KausikN/KausikN",
                 "description": null,
                 "language": null,
                 "time_creation": "2020-07-21-14-24-23",
-                "time_push_last": "2021-05-16-11-06-31",
+                "time_push_last": "2021-07-29-13-30-21",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -460,7 +680,7 @@
                 "time_push_last": "2021-07-21-09-52-08",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
                 "private": false
             },
             {
@@ -486,6 +706,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/MemoryBasedComputation",
+                "description": "Algorithms and Implementations for memory based computations",
+                "language": "Python",
+                "time_creation": "2020-03-13-08-32-04",
+                "time_push_last": "2021-07-18-10-59-24",
+                "home_page": null,
+                "n_forks": 1,
+                "n_stars": 1,
+                "private": true
+            },
+            {
                 "name": "KausikN/Mozhi",
                 "description": "Fun python based language and text tools",
                 "language": "Python",
@@ -493,8 +724,19 @@
                 "time_push_last": "2021-07-21-09-51-55",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
                 "private": false
+            },
+            {
+                "name": "KausikN/MultiUserGameplay",
+                "description": "Multiple User Controlled Game / Software based on aggregated inputs",
+                "language": null,
+                "time_creation": "2020-08-24-05-10-31",
+                "time_push_last": "2020-08-24-05-10-38",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/MusicMaker",
@@ -508,11 +750,22 @@
                 "private": false
             },
             {
+                "name": "KausikN/MyGit",
+                "description": "A python tool for viewing details about your github repos and profile",
+                "language": "Python",
+                "time_creation": "2021-07-12-11-03-57",
+                "time_push_last": "2021-07-21-12-41-49",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
                 "name": "KausikN/MyResume",
                 "description": "My Resume across various years",
                 "language": null,
                 "time_creation": "2020-03-18-11-39-09",
-                "time_push_last": "2020-12-03-13-51-08",
+                "time_push_last": "2021-07-28-06-26-21",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -585,6 +838,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/PatternRecognition_Files",
+                "description": "Pattern Recognition Codes and Files",
+                "language": "Python",
+                "time_creation": "2021-01-05-06-08-57",
+                "time_push_last": "2021-05-22-06-01-57",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 3,
+                "private": false
+            },
+            {
                 "name": "KausikN/PixelBreak",
                 "description": "PixelBreak is a python application that can reconstruct images using smaller images/colours which can be used to create art",
                 "language": "Python",
@@ -618,6 +882,28 @@
                 "private": false
             },
             {
+                "name": "KausikN/PyThread",
+                "description": "A python tool to visualise and run threaded jobs",
+                "language": "Python",
+                "time_creation": "2021-07-06-12-44-26",
+                "time_push_last": "2021-07-21-09-51-09",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "KausikN/PyVen",
+                "description": "A python importing and packaging tool for adding and removing common modules and features to other repositories.",
+                "language": "Python",
+                "time_creation": "2021-07-06-12-45-11",
+                "time_push_last": "2021-07-29-08-04-28",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
                 "name": "KausikN/RandomIdeaOrganiser",
                 "description": "A unity app for organising and archiving random ideas for future use",
                 "language": "C#",
@@ -627,6 +913,28 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
+            },
+            {
+                "name": "KausikN/RocketLeagueShips-Project",
+                "description": "A unity game which resembles Rocket League but with Ships and playable over LAN",
+                "language": "C#",
+                "time_creation": "2019-09-05-13-16-26",
+                "time_push_last": "2019-10-05-19-06-17",
+                "home_page": null,
+                "n_forks": 1,
+                "n_stars": 1,
+                "private": true
+            },
+            {
+                "name": "KausikN/Securo",
+                "description": "An Lost-Found application that helps identify owners of found items",
+                "language": null,
+                "time_creation": "2020-01-11-11-54-49",
+                "time_push_last": "2020-01-11-11-54-55",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
             },
             {
                 "name": "KausikN/siMpLe_ML",
@@ -640,6 +948,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/SkelAnim",
+                "description": "Skeletonisation based automatic rigging and animation in 2D images",
+                "language": "Python",
+                "time_creation": "2020-11-16-14-27-08",
+                "time_push_last": "2021-05-22-06-02-24",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
                 "name": "KausikN/SpeechSynth",
                 "description": "A Speech Manipulation and Synthesizer Tool",
                 "language": "Python",
@@ -651,6 +970,17 @@
                 "private": false
             },
             {
+                "name": "KausikN/SPI_Internship_Project",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2020-07-01-09-20-01",
+                "time_push_last": "2020-12-03-13-55-13",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": true
+            },
+            {
                 "name": "KausikN/TerrainGen",
                 "description": "A 3D Terrain Generator Tool using python",
                 "language": "Python",
@@ -658,7 +988,18 @@
                 "time_push_last": "2021-07-21-12-04-25",
                 "home_page": null,
                 "n_forks": 0,
-                "n_stars": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "KausikN/TomosuloAlgorithm",
+                "description": "Tomosulo Algorithm Implementation in Python",
+                "language": "Python",
+                "time_creation": "2020-05-22-10-58-23",
+                "time_push_last": "2020-08-31-07-45-21",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
                 "private": false
             },
             {
@@ -688,10 +1029,10 @@
                 "description": "A python tool for editing videos and adding fun effects",
                 "language": "Jupyter Notebook",
                 "time_creation": "2021-02-01-14-08-02",
-                "time_push_last": "2021-07-21-10-58-52",
+                "time_push_last": "2021-09-09-11-51-10",
                 "home_page": null,
                 "n_forks": 1,
-                "n_stars": 1,
+                "n_stars": 2,
                 "private": false
             },
             {
@@ -714,6 +1055,39 @@
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "SreenivasDheeraj/Juliana",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2020-07-19-12-43-24",
+                "time_push_last": "2020-08-06-08-47-35",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "venkat200/RocketLeagueShips-Project",
+                "description": "A unity game which resembles Rocket League but with Ships and playable over LAN",
+                "language": null,
+                "time_creation": "2019-10-05-19-09-09",
+                "time_push_last": "2019-10-05-19-06-17",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": true
+            },
+            {
+                "name": "venkat200/WhirlPool_IntelliSense",
+                "description": "WhirlPool Intelli Sense Refrigerator in XR+AR Web Experience",
+                "language": "C#",
+                "time_creation": "2020-09-30-18-42-29",
+                "time_push_last": "2020-11-15-10-36-10",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
                 "private": false
             }
         ],

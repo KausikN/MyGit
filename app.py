@@ -61,11 +61,14 @@ def Str_to_DateTime(data):
 def DateTime_to_Str(dateTime, format="%d-%b-%Y (%H:%M:%S)"):
     return dateTime.strftime(format) # Another format => '%Y-%m-%dT%H:%M:%S'
 
-def LoadClientData(userName):
+def LoadClientData(userName, secret_token=""):
     global GITHUB_CLIENT
     global USER_ME
+
+    MyGit.SetupGithubClient(secret_token)
     GITHUB_CLIENT = MyGit.GITHUB_CLIENT
-    if userName is None:
+
+    if userName is None or secret_token is not None:
         USER_ME = MyGit.GetCurrentUser()
     else:
         try:
@@ -135,6 +138,15 @@ def UI_LoadReposData(user, excludes):
     LoaderText.markdown("All " + str(repoCount) + " repo details loaded!")
     return REPOS_DETAILS
 
+def UI_GetUserData():
+    USERINPUT_UserName, USERINPUT_SecretToken = None, None
+    USERINPUT_UserIDTypeChoice = st.sidebar.selectbox("Select Search Mode", ["Username", "Secret Token"])
+    if USERINPUT_UserIDTypeChoice == "Username":
+        USERINPUT_UserName = st.sidebar.text_input("Enter User Name", "KausikN")
+    if USERINPUT_UserIDTypeChoice == "Secret Token":
+        USERINPUT_SecretToken = st.sidebar.text_input("Enter Secret Token (For Viewing Private Repos)", "")
+    return USERINPUT_UserName, USERINPUT_SecretToken
+
 # Repo Based Functions
 def view_my_repos():
     global CACHE
@@ -142,8 +154,8 @@ def view_my_repos():
     # Title
     st.header("View My Repos")
 
-    USERINPUT_UserName = st.sidebar.text_input("Enter User Name", "KausikN")
-    if not LoadClientData(USERINPUT_UserName): 
+    USERINPUT_UserName, USERINPUT_SecretToken = UI_GetUserData()
+    if not LoadClientData(USERINPUT_UserName, USERINPUT_SecretToken): 
         st.sidebar.markdown("No such user found :confused:")
         return
     LoadCache()
@@ -221,8 +233,8 @@ def settings():
     # Title
     st.header("Settings")
 
-    USERINPUT_UserName = st.sidebar.text_input("Enter User Name", "KausikN")
-    if not LoadClientData(USERINPUT_UserName): 
+    USERINPUT_UserName, USERINPUT_SecretToken = UI_GetUserData()
+    if not LoadClientData(USERINPUT_UserName, USERINPUT_SecretToken): 
         st.sidebar.markdown("No such user found :confused:")
         return
     LoadCache()

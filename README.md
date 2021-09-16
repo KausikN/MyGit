@@ -1,5 +1,5 @@
 # MyGit
- A python tool for viewing details about your github repos and profile
+ A python tool for viewing details about github repos and profiles
 
 # GUI
 [![https://infinityjoker-apps.herokuapp.com/](https://pyheroku-badge.herokuapp.com/?app=infinityjoker-apps&style=plastic)](https://infinityjoker-apps.herokuapp.com/)
