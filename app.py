@@ -185,7 +185,7 @@ def view_my_repos():
     # Display Outputs
     st.markdown("## " + USERINPUT_RepoChoice['name'])
 
-    col1, col2, col3, col4 = st.beta_columns([2, 4, 1, 1])
+    col1, col2, col3, col4 = st.columns([2, 4, 1, 1])
     Repo_public = ":ballot_box_with_check:" if not USERINPUT_RepoChoice['private'] else ":x:"
     col1.markdown("Public:")
     col2.markdown(Repo_public)
@@ -197,29 +197,29 @@ def view_my_repos():
     col4.markdown(Badge_nstars)
 
     detailSizeRatio = [1, 3]
-    col1, col2 = st.beta_columns(detailSizeRatio)
+    col1, col2 = st.columns(detailSizeRatio)
     Repo_desc = USERINPUT_RepoChoice['description'] if USERINPUT_RepoChoice['description'] is not None else "No Description"
     col1.markdown("Description:")
     col2.markdown("```\n" + Repo_desc)
 
-    col1, col2 = st.beta_columns(detailSizeRatio)
+    col1, col2 = st.columns(detailSizeRatio)
     Repo_lang = USERINPUT_RepoChoice['language'] if USERINPUT_RepoChoice['language'] is not None else "No Language"
     col1.markdown("Language:")
     col2.markdown("```\n" + Repo_lang)
 
-    col1, col2 = st.beta_columns(detailSizeRatio)
+    col1, col2 = st.columns(detailSizeRatio)
     Repo_timestr_created = USERINPUT_RepoChoice['time_creation'] if USERINPUT_RepoChoice['time_creation'] is not None else "Time of Creation not found"
     Repo_timestr_created = DateTime_to_Str(Str_to_DateTime(Repo_timestr_created))
     col1.markdown("Time of Creation:")
     col2.markdown("```\n" + Repo_timestr_created)
 
-    col1, col2 = st.beta_columns(detailSizeRatio)
+    col1, col2 = st.columns(detailSizeRatio)
     Repo_timestr_lastpush = USERINPUT_RepoChoice['time_push_last'] if USERINPUT_RepoChoice['time_push_last'] is not None else "Time of Last Push not found"
     Repo_timestr_lastpush = DateTime_to_Str(Str_to_DateTime(Repo_timestr_lastpush))
     col1.markdown("Time of Last Push:")
     col2.markdown("```\n" + Repo_timestr_lastpush)
 
-    col1, col2 = st.beta_columns(detailSizeRatio)
+    col1, col2 = st.columns(detailSizeRatio)
     Repo_homepage = USERINPUT_RepoChoice['home_page']
     col1.markdown("Home Page:")
     if Repo_homepage is None:
