@@ -2,61 +2,6 @@
     "REPOS_DETAILS": {
         "Kausik N": [
             {
-                "name": "anuragnatoo/MemoryBasedMutliplication",
-                "description": "Algorithms and Implementations for memory based computations",
-                "language": "Python",
-                "time_creation": "2020-03-31-04-53-22",
-                "time_push_last": "2020-05-26-08-23-36",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
-            },
-            {
-                "name": "aSociette/aSociette",
-                "description": null,
-                "language": "Dart",
-                "time_creation": "2021-08-08-07-35-00",
-                "time_push_last": "2021-08-25-04-53-26",
-                "home_page": null,
-                "n_forks": 1,
-                "n_stars": 1,
-                "private": true
-            },
-            {
-                "name": "aSociette/Juliana",
-                "description": null,
-                "language": "Python",
-                "time_creation": "2020-04-13-05-48-40",
-                "time_push_last": "2021-07-28-07-09-45",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
-                "name": "aSociette/spirit-api",
-                "description": "OpenAPI aimed at helping developers collaborate and make chatbots more accessible",
-                "language": "Python",
-                "time_creation": "2021-07-24-10-57-17",
-                "time_push_last": "2021-09-05-17-08-15",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
-            },
-            {
-                "name": "github/copilot-preview",
-                "description": "Repository for GitHub Copilot",
-                "language": "Python",
-                "time_creation": "2021-06-02-06-27-15",
-                "time_push_last": "2021-07-21-14-56-19",
-                "home_page": "https://copilot.github.com",
-                "n_forks": 0,
-                "n_stars": 7948,
-                "private": true
-            },
-            {
                 "name": "KausikN/Accilert_Codes",
                 "description": "Codes for Accilert - Simulation Software for Accident Detection and Coditions Simulation",
                 "language": "C#",
@@ -94,11 +39,11 @@
                 "description": "A python visualiser for various Algorithms",
                 "language": "Python",
                 "time_creation": "2021-09-16-04-14-25",
-                "time_push_last": "2021-09-16-06-45-41",
+                "time_push_last": "2021-09-18-14-19-57",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 0,
-                "private": true
+                "private": false
             },
             {
                 "name": "KausikN/Algo_CPP_Files",
@@ -116,7 +61,7 @@
                 "description": "A tool to generate and view ASCII Animations and pictures using images, text, sounds and more!",
                 "language": "Python",
                 "time_creation": "2021-07-03-11-08-45",
-                "time_push_last": "2021-07-24-07-42-13",
+                "time_push_last": "2021-09-18-13-59-27",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -143,17 +88,6 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
-            },
-            {
-                "name": "KausikN/Assemble_VideoConferencingApp",
-                "description": "Made in India Video Conferencing App",
-                "language": null,
-                "time_creation": "2020-04-23-07-44-08",
-                "time_push_last": "2020-04-23-07-44-15",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
             },
             {
                 "name": "KausikN/AutoUI",
@@ -209,28 +143,6 @@
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
-            },
-            {
-                "name": "KausikN/ChessOverloaded",
-                "description": "ChessOverloaded is a unity chess based game",
-                "language": "C#",
-                "time_creation": "2019-09-05-13-38-02",
-                "time_push_last": "2021-04-21-12-00-43",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
-                "name": "KausikN/CommonHostApp",
-                "description": "Streamlit app for dynamic hosting of streamlit based github repos (PyVen initialised) on heroku",
-                "language": "Python",
-                "time_creation": "2021-07-19-15-27-57",
-                "time_push_last": "2021-08-16-16-20-43",
-                "home_page": "",
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
             },
             {
                 "name": "KausikN/CompArch_Files",
@@ -292,33 +204,11 @@
                 "description": "DaVIS is a Data Visualiser Tool for visualising data in various unconventional methods to provide more insights",
                 "language": "Python",
                 "time_creation": "2020-07-19-14-46-27",
-                "time_push_last": "2021-09-16-06-44-57",
+                "time_push_last": "2021-09-16-07-13-09",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 2,
                 "private": false
-            },
-            {
-                "name": "KausikN/DescripGen",
-                "description": "A Description/Summary Generator for any directory for use in places like generating github repo descriptions",
-                "language": "Python",
-                "time_creation": "2020-11-15-14-00-41",
-                "time_push_last": "2020-12-03-13-51-39",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
-            },
-            {
-                "name": "KausikN/DevoteeApp",
-                "description": "A Python App to Upload Devotee Data from Google Form CSV Data to Google Firebase Database",
-                "language": "Python",
-                "time_creation": "2020-02-28-10-05-40",
-                "time_push_last": "2020-04-02-12-44-58",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
             },
             {
                 "name": "KausikN/DSA_C_Files",
@@ -332,37 +222,15 @@
                 "private": false
             },
             {
-                "name": "KausikN/DuoSecure",
-                "description": "2 Wheeler Theft Detection",
-                "language": "Python",
-                "time_creation": "2020-01-31-10-16-56",
-                "time_push_last": "2020-12-03-13-52-41",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/EasyInit",
                 "description": "A collection of \"simply run\" initialisers, executables and codes for various uses",
                 "language": "Python",
                 "time_creation": "2021-09-10-13-31-13",
-                "time_push_last": "2021-09-16-04-15-30",
+                "time_push_last": "2021-09-18-14-20-43",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 0,
-                "private": true
-            },
-            {
-                "name": "KausikN/eBramhaAR_Scripts",
-                "description": "eBramha AR Unity Scripts",
-                "language": "C#",
-                "time_creation": "2019-12-12-14-24-38",
-                "time_push_last": "2020-04-02-12-45-14",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
+                "private": false
             },
             {
                 "name": "KausikN/edex-ui",
@@ -420,22 +288,11 @@
                 "private": false
             },
             {
-                "name": "KausikN/GameDevPile",
-                "description": "Pile of Game Dev Stuff done by me",
-                "language": null,
-                "time_creation": "2020-04-26-05-46-39",
-                "time_push_last": "2020-04-26-05-46-40",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/Gattaca",
                 "description": "A python visualiser for genetic algorithms and related concepts",
                 "language": "Python",
                 "time_creation": "2021-07-29-05-11-53",
-                "time_push_last": "2021-08-05-06-45-13",
+                "time_push_last": "2021-09-18-14-25-31",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -446,7 +303,7 @@
                 "description": "GigaCode is a code and functions database access tool",
                 "language": "Python",
                 "time_creation": "2020-02-13-09-18-17",
-                "time_push_last": "2021-07-21-09-52-02",
+                "time_push_last": "2021-09-18-14-21-58",
                 "home_page": "",
                 "n_forks": 0,
                 "n_stars": 2,
@@ -508,17 +365,6 @@
                 "private": false
             },
             {
-                "name": "KausikN/HerokuTestApp",
-                "description": "Test Apps for hosting in Heroku",
-                "language": "Python",
-                "time_creation": "2020-04-30-12-50-48",
-                "time_push_last": "2020-12-03-13-53-12",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/HospiDB",
                 "description": "A Java Application for Hospital Management using MySQL Database Connectivity",
                 "language": "Java",
@@ -530,22 +376,11 @@
                 "private": false
             },
             {
-                "name": "KausikN/IITM_Files",
-                "description": "All codes, projects, notes and assignments in IIT Madras Courses and Electives that i took during my MTech",
-                "language": "C",
-                "time_creation": "2021-08-21-12-45-46",
-                "time_push_last": "2021-09-09-04-53-33",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
-            },
-            {
                 "name": "KausikN/ImageColoriser",
                 "description": "Greyscale images to Color images using python and DL",
                 "language": "Python",
                 "time_creation": "2021-05-26-13-38-21",
-                "time_push_last": "2021-07-21-09-52-39",
+                "time_push_last": "2021-09-18-14-06-10",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -567,22 +402,11 @@
                 "description": "ImTron is a tool to generate Transistion Images connecting 2 or more Images and generating GIFs or Videos from few images",
                 "language": "Python",
                 "time_creation": "2020-08-02-08-40-11",
-                "time_push_last": "2021-07-21-09-51-30",
+                "time_push_last": "2021-09-18-14-23-29",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 2,
                 "private": false
-            },
-            {
-                "name": "KausikN/InfinityJoker",
-                "description": "Python tool to do fun things with jokes",
-                "language": "Python",
-                "time_creation": "2020-09-17-10-15-50",
-                "time_push_last": "2020-09-17-10-15-58",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
             },
             {
                 "name": "KausikN/KausikN",
@@ -677,7 +501,7 @@
                 "description": "Movies and Series Organised Viewing tool",
                 "language": "Python",
                 "time_creation": "2021-06-30-11-11-14",
-                "time_push_last": "2021-07-21-09-52-08",
+                "time_push_last": "2021-09-18-14-24-36",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -706,37 +530,15 @@
                 "private": false
             },
             {
-                "name": "KausikN/MemoryBasedComputation",
-                "description": "Algorithms and Implementations for memory based computations",
-                "language": "Python",
-                "time_creation": "2020-03-13-08-32-04",
-                "time_push_last": "2021-07-18-10-59-24",
-                "home_page": null,
-                "n_forks": 1,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/Mozhi",
                 "description": "Fun python based language and text tools",
                 "language": "Python",
                 "time_creation": "2021-05-22-05-41-04",
-                "time_push_last": "2021-07-21-09-51-55",
+                "time_push_last": "2021-09-18-14-11-36",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
                 "private": false
-            },
-            {
-                "name": "KausikN/MultiUserGameplay",
-                "description": "Multiple User Controlled Game / Software based on aggregated inputs",
-                "language": null,
-                "time_creation": "2020-08-24-05-10-31",
-                "time_push_last": "2020-08-24-05-10-38",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
             },
             {
                 "name": "KausikN/MusicMaker",
@@ -754,11 +556,11 @@
                 "description": "A python tool for viewing details about your github repos and profile",
                 "language": "Python",
                 "time_creation": "2021-07-12-11-03-57",
-                "time_push_last": "2021-07-21-12-41-49",
+                "time_push_last": "2021-09-18-14-05-16",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
-                "private": true
+                "private": false
             },
             {
                 "name": "KausikN/MyResume",
@@ -886,7 +688,7 @@
                 "description": "A python tool to visualise and run threaded jobs",
                 "language": "Python",
                 "time_creation": "2021-07-06-12-44-26",
-                "time_push_last": "2021-07-21-09-51-09",
+                "time_push_last": "2021-09-17-08-15-25",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -897,7 +699,7 @@
                 "description": "A python importing and packaging tool for adding and removing common modules and features to other repositories.",
                 "language": "Python",
                 "time_creation": "2021-07-06-12-45-11",
-                "time_push_last": "2021-07-29-08-04-28",
+                "time_push_last": "2021-09-18-14-26-18",
                 "home_page": "",
                 "n_forks": 0,
                 "n_stars": 1,
@@ -915,28 +717,6 @@
                 "private": false
             },
             {
-                "name": "KausikN/RocketLeagueShips-Project",
-                "description": "A unity game which resembles Rocket League but with Ships and playable over LAN",
-                "language": "C#",
-                "time_creation": "2019-09-05-13-16-26",
-                "time_push_last": "2019-10-05-19-06-17",
-                "home_page": null,
-                "n_forks": 1,
-                "n_stars": 1,
-                "private": true
-            },
-            {
-                "name": "KausikN/Securo",
-                "description": "An Lost-Found application that helps identify owners of found items",
-                "language": null,
-                "time_creation": "2020-01-11-11-54-49",
-                "time_push_last": "2020-01-11-11-54-55",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/siMpLe_ML",
                 "description": "A ML Project for a GUI Neural Network Application that can create and utilise ML models using GUI",
                 "language": "Python",
@@ -946,17 +726,6 @@
                 "n_forks": 1,
                 "n_stars": 2,
                 "private": false
-            },
-            {
-                "name": "KausikN/SkelAnim",
-                "description": "Skeletonisation based automatic rigging and animation in 2D images",
-                "language": "Python",
-                "time_creation": "2020-11-16-14-27-08",
-                "time_push_last": "2021-05-22-06-02-24",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
             },
             {
                 "name": "KausikN/SpeechSynth",
@@ -970,22 +739,11 @@
                 "private": false
             },
             {
-                "name": "KausikN/SPI_Internship_Project",
-                "description": null,
-                "language": "Python",
-                "time_creation": "2020-07-01-09-20-01",
-                "time_push_last": "2020-12-03-13-55-13",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 1,
-                "private": true
-            },
-            {
                 "name": "KausikN/TerrainGen",
                 "description": "A 3D Terrain Generator Tool using python",
                 "language": "Python",
                 "time_creation": "2021-02-23-09-28-41",
-                "time_push_last": "2021-07-21-12-04-25",
+                "time_push_last": "2021-09-18-14-10-46",
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
@@ -1029,7 +787,7 @@
                 "description": "A python tool for editing videos and adding fun effects",
                 "language": "Jupyter Notebook",
                 "time_creation": "2021-02-01-14-08-02",
-                "time_push_last": "2021-09-09-11-51-10",
+                "time_push_last": "2021-09-18-14-09-24",
                 "home_page": null,
                 "n_forks": 1,
                 "n_stars": 2,
@@ -1055,39 +813,6 @@
                 "home_page": null,
                 "n_forks": 0,
                 "n_stars": 1,
-                "private": false
-            },
-            {
-                "name": "SreenivasDheeraj/Juliana",
-                "description": null,
-                "language": "Python",
-                "time_creation": "2020-07-19-12-43-24",
-                "time_push_last": "2020-08-06-08-47-35",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": false
-            },
-            {
-                "name": "venkat200/RocketLeagueShips-Project",
-                "description": "A unity game which resembles Rocket League but with Ships and playable over LAN",
-                "language": null,
-                "time_creation": "2019-10-05-19-09-09",
-                "time_push_last": "2019-10-05-19-06-17",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
-                "private": true
-            },
-            {
-                "name": "venkat200/WhirlPool_IntelliSense",
-                "description": "WhirlPool Intelli Sense Refrigerator in XR+AR Web Experience",
-                "language": "C#",
-                "time_creation": "2020-09-30-18-42-29",
-                "time_push_last": "2020-11-15-10-36-10",
-                "home_page": null,
-                "n_forks": 0,
-                "n_stars": 0,
                 "private": false
             }
         ],
@@ -1359,6 +1084,360 @@
                 "private": false
             }
         ],
-        "BIG": []
+        "BIG": [],
+        "Anurag Kar": [
+            {
+                "name": "anuragdevon/anuragdevon",
+                "description": "Get into it!",
+                "language": null,
+                "time_creation": "2020-07-14-18-15-45",
+                "time_push_last": "2021-08-20-17-59-02",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/archrice",
+                "description": " My dotfiles for arch-linux setup",
+                "language": "Shell",
+                "time_creation": "2021-05-18-11-27-56",
+                "time_push_last": "2021-09-24-19-10-20",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Ball-Animation",
+                "description": "Animated ball using openGL/c++",
+                "language": "C++",
+                "time_creation": "2020-07-21-15-37-04",
+                "time_push_last": "2020-10-02-09-54-10",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Computer-Vision",
+                "description": "Python image processing and computer vision techniques",
+                "language": "Python",
+                "time_creation": "2020-05-15-08-47-08",
+                "time_push_last": "2021-07-08-21-16-47",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Contact-List-Template",
+                "description": "Contact list using MEAN Stack",
+                "language": "JavaScript",
+                "time_creation": "2020-09-11-06-11-28",
+                "time_push_last": "2020-10-02-08-12-27",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Data-Structures",
+                "description": "Data structures and Algorithmic codes",
+                "language": "C",
+                "time_creation": "2020-10-03-05-55-21",
+                "time_push_last": "2021-06-09-13-43-40",
+                "home_page": "",
+                "n_forks": 20,
+                "n_stars": 4,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Django-apps",
+                "description": "simple projects in Django",
+                "language": "Python",
+                "time_creation": "2020-10-08-20-29-16",
+                "time_push_last": "2021-08-09-19-06-42",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/doks",
+                "description": "Hugo theme helping you build modern documentation websites.",
+                "language": null,
+                "time_creation": "2021-05-08-07-56-59",
+                "time_push_last": "2021-05-07-18-17-08",
+                "home_page": "https://getdoks.org",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Ecommerce",
+                "description": null,
+                "language": "JavaScript",
+                "time_creation": "2021-07-19-06-14-44",
+                "time_push_last": "2021-09-02-19-52-11",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/flutter-work",
+                "description": null,
+                "language": "Dart",
+                "time_creation": "2021-05-22-04-39-12",
+                "time_push_last": "2021-06-13-09-55-05",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/hostel-management",
+                "description": "A web application made using django framework which can make the collrge hostel managing system more efficient, secure and less troublesome.",
+                "language": "JavaScript",
+                "time_creation": "2021-04-10-09-33-22",
+                "time_push_last": "2021-09-22-20-01-53",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/i3status-rust",
+                "description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",
+                "language": null,
+                "time_creation": "2021-05-13-13-26-27",
+                "time_push_last": "2021-05-23-18-57-02",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Instructables",
+                "description": "Files",
+                "language": "C++",
+                "time_creation": "2020-05-23-17-51-35",
+                "time_push_last": "2020-10-02-07-45-25",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/IoT-Mobile",
+                "description": "Using termux, bash scripting and python creating a real-time simulation of car networking inside android-mobile",
+                "language": "Python",
+                "time_creation": "2021-04-12-12-56-11",
+                "time_push_last": "2021-04-22-12-22-09",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Journal-2.0",
+                "description": "Android Based App built using open source UI framework Flutter as a part of Hackathon and open source development.",
+                "language": "Dart",
+                "time_creation": "2021-05-29-22-24-52",
+                "time_push_last": "2021-05-30-06-30-42",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/lfyt",
+                "description": "lf + youtube-dl",
+                "language": null,
+                "time_creation": "2021-09-20-13-06-34",
+                "time_push_last": "2021-01-07-14-29-17",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Line-Follower-PID",
+                "description": "LFR (PID) arduino code(C)",
+                "language": "C",
+                "time_creation": "2020-05-14-12-38-12",
+                "time_push_last": "2021-06-13-19-30-26",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/MechanumTest",
+                "description": "Contains files regarding testing of the holonomic movement in the 4/4 base consisting of mechanum wheels",
+                "language": "C",
+                "time_creation": "2020-07-21-15-06-54",
+                "time_push_last": "2021-06-13-19-37-41",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/ML-DNN-codes",
+                "description": "Machine learning and deep learning using python",
+                "language": "Jupyter Notebook",
+                "time_creation": "2020-06-25-08-34-24",
+                "time_push_last": "2021-05-20-21-01-11",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 1,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/netflix",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2021-07-20-06-29-15",
+                "time_push_last": "2021-09-04-07-36-49",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/NotesApp",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2021-08-23-08-35-52",
+                "time_push_last": "2021-08-23-14-33-04",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/ProjectHandler",
+                "description": "Easy way to handle project-management in small teams.",
+                "language": "CSS",
+                "time_creation": "2021-06-21-18-23-00",
+                "time_push_last": "2021-07-04-07-02-00",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/python-scripts",
+                "description": "solving simple problems using python",
+                "language": "Python",
+                "time_creation": "2020-05-21-07-32-27",
+                "time_push_last": "2021-06-11-15-03-56",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/samples",
+                "description": "A collection of Flutter examples and demos.",
+                "language": null,
+                "time_creation": "2021-05-21-18-11-20",
+                "time_push_last": "2021-05-20-09-14-55",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/sn-bots",
+                "description": "Contains automation bots for different social networking sites",
+                "language": "Python",
+                "time_creation": "2021-08-04-10-43-45",
+                "time_push_last": "2021-09-06-12-36-05",
+                "home_page": "",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Static-Graph",
+                "description": null,
+                "language": "C++",
+                "time_creation": "2020-07-20-17-57-54",
+                "time_push_last": "2020-10-02-09-54-44",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/tflite_flutter_plugin",
+                "description": "TensorFlow Lite Flutter Plugin",
+                "language": null,
+                "time_creation": "2021-05-21-12-30-20",
+                "time_push_last": "2021-05-19-06-15-56",
+                "home_page": "https://pub.dev/packages/tflite_flutter",
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/The-Dark-Shadow",
+                "description": "THE DARK SHADOW - LICENSE",
+                "language": null,
+                "time_creation": "2020-08-02-10-34-49",
+                "time_push_last": "2020-10-11-06-37-00",
+                "home_page": "",
+                "n_forks": 1,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Ubuntu-dot-files",
+                "description": "linux system",
+                "language": "Perl",
+                "time_creation": "2021-02-12-13-17-35",
+                "time_push_last": "2021-04-16-13-07-31",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Url-Shortener-Go",
+                "description": null,
+                "language": "Go",
+                "time_creation": "2021-08-21-21-48-50",
+                "time_push_last": "2021-08-22-21-33-25",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/Video-Chat-Django",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2021-07-21-15-46-50",
+                "time_push_last": "2021-09-07-07-09-00",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            },
+            {
+                "name": "anuragdevon/WeatherApp",
+                "description": null,
+                "language": "Python",
+                "time_creation": "2021-07-16-13-26-59",
+                "time_push_last": "2021-07-19-05-24-52",
+                "home_page": null,
+                "n_forks": 0,
+                "n_stars": 0,
+                "private": false
+            }
+        ]
     }
 }
