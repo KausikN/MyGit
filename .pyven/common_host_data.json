@@ -3,5 +3,8 @@
         "StreamLitGUI/",
         "app.py",
         "MyGit.py"
-    ]
+    ],
+    "streamlit": {
+        "link": "https://kausikn-mygit.streamlit.app/"
+    }
 }
